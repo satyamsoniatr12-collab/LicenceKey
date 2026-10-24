@@ -19,6 +19,13 @@
         "password": "223223",
         "expirydate": "20-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2b3e1c71c2e2bcc3",
+        "username": "afx123",
+        "password": "afx1234",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
     }
 ]
 ]
